@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+financial_streaming_env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Kafka & Spark
+*.pid
+*.tmp
+
+# Elasticsearch
+data/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Credentials (Important!)
+credentials.py
+config.ini
+secrets.json
+
+# Large Data Files
+*.csv
+*.json.gz
+*.parquet
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/ 
