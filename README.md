@@ -1,4 +1,4 @@
-# 📊 Real-Time Financial Market Sentiment Analysis
+# 📊 WallStreetBets Subreddit Real-Time Analytics Pipeline
 
 **A production-ready streaming analytics system that processes live financial discussions from Reddit's WallStreetBets community using Apache Kafka, PySpark, and Elasticsearch to identify trending stocks and market sentiment patterns.**
 
@@ -78,7 +78,7 @@ Reddit API (PRAW) → Kafka → PySpark (NER) → Kafka → Logstash → Elastic
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd Financial-Markets-Streaming-Analytics
+cd WallStreetBets-Real-Time-Analytics
 
 # Create virtual environment
 python -m venv financial_streaming_env

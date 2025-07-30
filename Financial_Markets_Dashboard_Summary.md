@@ -1,4 +1,4 @@
-# Financial Markets Sentiment Analysis: Dashboard Summary
+# WallStreetBets Subreddit Real-Time Analytics Pipeline: Dashboard Summary
 
 **Real-Time Streaming Analytics for WallStreetBets Community**  
 _July 2025_
@@ -7,7 +7,7 @@ _July 2025_
 
 ## Project Overview
 
-Built a **real-time financial sentiment analysis pipeline** that streams live discussions from Reddit's WallStreetBets, extracts financial entities using Apache Kafka + PySpark + spaCy NLP, and visualizes trending stocks through interactive Kibana dashboards.
+Built a **WallStreetBets subreddit real-time analytics pipeline** that streams live discussions from Reddit's WallStreetBets, extracts financial entities using Apache Kafka + PySpark + spaCy NLP, and visualizes trending stocks through interactive Kibana dashboards.
 
 **Tech Stack**: Reddit API | Apache Kafka | PySpark | spaCy NLP | Elasticsearch | Kibana
 
@@ -82,4 +82,4 @@ _Vertical bar chart showing top extracted entities_
 
 ## Results Summary
 
-Successfully deployed **production-ready streaming analytics system** processing live financial discussions with validated entity extraction and real-time visualization capabilities. System demonstrates technical competency in big data technologies while providing actionable market intelligence insights.
+Successfully deployed **WallStreetBets subreddit real-time analytics pipeline** processing live financial discussions with validated entity extraction and real-time visualization capabilities. System demonstrates technical competency in big data technologies while providing actionable market intelligence insights.
